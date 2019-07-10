@@ -9,7 +9,7 @@ Achieved 93.62% accuracy across 33 tumor types and separated into clusters using
 
 ----------------------------------------------------------------------------------
 
-Sample high dimensional input data:
+Sample high dimensional input data (20531-d):
 
 ![desc](https://github.com/JeffreyYeung7/TumorExpression/blob/master/DemoPics/SampleGene.PNG)
 
