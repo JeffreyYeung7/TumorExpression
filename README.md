@@ -1,6 +1,8 @@
 # TumorExpression
 Tumor Type Classification from Gene Expression
 
-Using Variational Autoencoder to reduce initial ~20k dimensional genetic data into 100 dimensions.
+Encoded ~20k-dimensional data to 100-d latent space using a Variational Autoencoder
 
-Visualized tumor type clusters with t-SNE.
+Stripped encoder from VAE to feed into a two-layer feedforward network
+
+Achieved 93.62% accuracy across 33 tumor types and separated into clusters using t-SNE
